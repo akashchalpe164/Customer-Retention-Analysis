@@ -8,7 +8,7 @@ Understand impact of contract type, tenure, and services
 Provide actionable business recommendations
 
 ## Dateset Used
-- <a pref ="https://github.com/akashchalpe164/Customer-Retention-Analysis/blob/main/telco_churn_unclean.csv"> Dataset </D>
+- <a href ="https://github.com/akashchalpe164/Customer-Retention-Analysis/blob/main/telco_churn_unclean.csv"> Dataset </D>
 
 ## Key Insights
 Total Customers: 7043
@@ -36,5 +36,5 @@ Offer loyalty programs
 Increase customer engagement
 
 ## Dashboard Image 
-<a pref ="https://1drv.ms/i/c/DF58E2B925261CF7/IQD6gumHsUbTSZk7NHADptfwAUjHiS_WKwnRql2ILPsCx54?e=aFCjKY"> Dashboard Image </D>
+<a href ="https://1drv.ms/i/c/DF58E2B925261CF7/IQD6gumHsUbTSZk7NHADptfwAUjHiS_WKwnRql2ILPsCx54?e=aFCjKY"> Dashboard Image </D>
 
