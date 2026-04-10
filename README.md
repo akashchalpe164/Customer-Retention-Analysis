@@ -1,5 +1,5 @@
 # Customer-Retention-Analysis
-Customer Retention Analysis project identifies key factors driving customer churn and retention using data analysis. Includes EDA, KPI tracking, and customer segmentation. Built interactive dashboards to visualize insights and recommend strategies like loyalty programs and targeted marketing to improve retention.
+This project analyzes customer churn behavior to identify key factors affecting customer retention. It helps businesses understand why customers leave and provides data-driven insights to improve retention strategies.
 
 ## Objectives
 Analyze customer churn rate
